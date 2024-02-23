@@ -4,11 +4,11 @@ import { Text, View } from 'react-native'
 
 
 function Comp() {
-  return <View>LeoYuuki</View>
+  return <View><Text>LeoYuuki</Text></View>
 }
 
 function Comp2() {
-  return <View>LeoYuuki - Teste 2</View>
+  return <View><Text>LeoYuukiiiiiiiiii - Teste 2</Text></View>
 }
 
 ;
